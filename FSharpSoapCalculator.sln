@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "FSharpSoapCalculator", "FSharpSoapCalculator\FSharpSoapCalculator.fsproj", "{79F258E1-68C5-4AFF-8B86-53273D0739EB}"
+EndProject
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "SoapCalculatorTests", "SoapCalculatorTests\SoapCalculatorTests.fsproj", "{70274709-DD55-4046-BFC8-963C88230B4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79F258E1-68C5-4AFF-8B86-53273D0739EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79F258E1-68C5-4AFF-8B86-53273D0739EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79F258E1-68C5-4AFF-8B86-53273D0739EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79F258E1-68C5-4AFF-8B86-53273D0739EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70274709-DD55-4046-BFC8-963C88230B4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70274709-DD55-4046-BFC8-963C88230B4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70274709-DD55-4046-BFC8-963C88230B4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70274709-DD55-4046-BFC8-963C88230B4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38B3DBC4-DF9A-4C69-838A-D800E7B7D567}
+	EndGlobalSection
+EndGlobal
